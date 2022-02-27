@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversion upon Generall Monck's letter to the gentry of Devon: wherein his arguments for anarchy are considered, and the weaknesse of his Harringtonian principle detected. By M. W.</title>
+            <author>Morice, William, Sir, 1602-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89316</idno>
+            <idno type="STC">Wing M2761</idno>
+            <idno type="STC">Thomason E1015_10</idno>
+            <idno type="STC">ESTC R208187</idno>
+            <idno type="EEBO-CITATION">99867160</idno>
+            <idno type="PROQUEST">99867160</idno>
+            <idno type="VID">168774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168774)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversion upon Generall Monck's letter to the gentry of Devon: wherein his arguments for anarchy are considered, and the weaknesse of his Harringtonian principle detected. By M. W.</title>
+                  <author>Morice, William, Sir, 1602-1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>M. W. = Sir William Morice; cf. Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb: 3."; "oris" is inserted after the "M" on the title page, and "illiam" is written in after the "W", as are the numbers 2 and 1 reversing the order of the names.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Anarchism --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168774:1" rendition="simple:additions"/>
+            <p>ANIMADVERSION Upon Generall Monck's LETTER <hi>To the GENTRY of</hi> DEVON: Wherein his Arguments for <hi>Anarchy</hi> are conſidered, and the weakneſſe of his <hi>Harringtonian</hi> Principle detected.</p>
+            <p>By <hi>M. W.</hi>
+            </p>
+            <p>
+               <hi>Orbis, ut orbita, volvitur, incita, turbine miro.</hi>
+            </p>
+            <p>Printed in the year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168774:2"/>
+            <pb n="3" facs="tcp:168774:2"/>
+            <head>ANIMADVERSIONS <hi>Upon Generall MONCK</hi>'s LETTER To the Gentry of DEVON.</head>
+            <p>
+               <seg rend="decorInit">A</seg>MBITION is of a greedy nature, not content with the bodies and eſtates of men, but ſtrives to attaque their ſouls alſo, and to take-in that by policy or the force of Argument, which will hold out againſt all the force of Armes.</p>
+            <p>The riſe and progreſſe of <hi>Mahomet,</hi> and the <hi>Ottoman</hi> Family, are ſolemn teſtimonials of this ſad truth; but we have nearer inſtances of it: A few Members of the Houſe of Commons of late, ſtealing into the Seat of Government, by the help of <hi>Sampſon</hi> and his Locks, are not content to ſeize our Bodies and Eſtates at pleaſure; but, with the ſtrength of his <hi>Jaw-bone</hi> onely, would force our Underſtandings alſo, and perſwade us to be mad with reaſon.</p>
+            <p>We thought Generall <hi>Monck</hi> might have been our Pilot, and were ſo fond as to believe, He would ſteer us towards harbour, not by faction and private inte<g ref="char:EOLhyphen"/>reſt, but by Reaſon, and Chriſtian prudence; that, ſee<g ref="char:EOLhyphen"/>ing we could not avoid the horrour of a fearfull ſtorm, we might evade the error of a finall Shipwrack: but, inſtead thereof, being diſpoſſeſt of our Eſtates by Violence, he would argue us into a belief, that 'tis beſt to entail our welfare on them that wrong us; and
+<pb n="4" facs="tcp:168774:3"/>prove it more rationall, that we ſuffer our Veſſell to remain in a continuall ſtorm, than to return again to that harbour, from whence we firſt took ſail.</p>
+            <p>And thus he diſplaies his ſtrength, <hi>Before theſe un<g ref="char:EOLhyphen"/>happy Warres, the Government of theſe Nations, was Monarchicall in Church and State: Theſe Wars have gi<g ref="char:EOLhyphen"/>ven birth and growth, to ſeverall intereſts, both in Church and State, heretofore not known: though now upon many accounts very conſiderable, as the Presbyterian, Indepen<g ref="char:EOLhyphen"/>dent, Anabaptiſt, and other Sectaries of all ſorts, as to Eccleſiaſticks; And the purchaſers of the King's, Queen's, Prince's, Biſhops, Deans, and Chapters, and all other forfei<g ref="char:EOLhyphen"/>ted Eſtates; and all theſe engaged in theſe Wars againſt the King, as to Civils. Theſe Intereſts again are ſo inter<g ref="char:EOLhyphen"/>woven by purchaſes, and inter-marriages, and thereby for<g ref="char:EOLhyphen"/>feited, as, I think, upon rationall grounds, it may be taken for granted, that no Government can be either Good, Peacefull, or Laſting to theſe Nations, that doth not rati<g ref="char:EOLhyphen"/>onally include, and comprehend the ſecurity, and preſer<g ref="char:EOLhyphen"/>vation of all the aforeſaid Intereſts, both civill, and ſpiri<g ref="char:EOLhyphen"/>tuall. I mean ſo far as by the Word of God, they are war<g ref="char:EOLhyphen"/>ranted to be protected and preſerved.</hi> But,</p>
+            <p n="1">1. If the Sects he mentions, had their Birth in the Wars, 'tis without diſpute, that all of them are groſſe Errors, (truth being of an elder off-ſpring) and ſo not fit to be ſecured, unleſſe he means, in the Souldiers Dialect, to be reſtrain'd; nor are they then to be preſer<g ref="char:EOLhyphen"/>ved, unleſſe it were lawfull to do evill, that good may come thereof.</p>
+            <p n="2">2. If the parties he mentions, were engaged in Wars againſt the King, they were perjured, and faith<g ref="char:EOLhyphen"/>leſſe Perſons, and ſo no ſecurity to be had for their ill<g ref="char:EOLhyphen"/>gotten Eſtates; they ſwearing with hands lifted up to the moſt High, to maintain his Perſon in Honour and Safety; and, during all the Wars, declaring their in<g ref="char:EOLhyphen"/>tents to remove his evill Counſellors only from him; and to ſay, There was a condition in their Oath to pre<g ref="char:EOLhyphen"/>ſerve him, till they had him in their power, is a ſtrain beyond the invention of <hi>Machiavill,</hi> and a mentall reſervation, firſt found out in Hell. But to deſtroy his
+<pb n="5" facs="tcp:168774:3"/>Perſon, take his Eſtate, and then to provide for the ſecurity of the purchaſer, will make us worſe then Heathens, and their practices to upbraide our provi<g ref="char:EOLhyphen"/>ſions; for, <hi>Majores noſtri religioſiſſimi,</hi> (ſaith <hi>Saluſt</hi>) <hi>nihil victis cripiebant, praeter injuriae licenciam.</hi> And <hi>Sene<g ref="char:EOLhyphen"/>ca</hi> commends the practice, <hi>nihil ex Rege victo praeter gloriam ſumere.</hi>
+            </p>
+            <p n="3">3. Suppoſe the intereſts aforeſaid are to be preſer<g ref="char:EOLhyphen"/>ved and ſecured: Why cannot Monarchy preſerve them as well as any other ſpecies of Government? in regard, it partakes with all the advantages of the other forms, without ſharing in their diſadvantages. Sure if they ought to be preſerved, Monarchy is no more exclu<g ref="char:EOLhyphen"/>ſive of them in <hi>England,</hi> than of <hi>Hugonets</hi> and Sects in <hi>France;</hi> or the like intereſts upon the admiſſion of <hi>Charls</hi> the fourth, into that Kingdome: Yet let the People have their free Elections in Parliament, and there chuſe their own Government, (ſure they know what is beſt for them) and what ever they ſhall there eſtabliſh, no doubt the Nation will acquieſce in, and yield conformity and obedience unto it; but 'tis un<g ref="char:EOLhyphen"/>reaſonable to put them upon that election of a Junior in the meſſe in <hi>Cambridge,</hi> either to take the Rump or Nothing.</p>
+            <p>But, becauſe the Generall ſupports his Arguments in part upon Mr. <hi>Harrington's</hi> principle, that the ſup<g ref="char:EOLhyphen"/>port of Monarchy being taken away, that Govern<g ref="char:EOLhyphen"/>ment cannot be admitted; I muſt firſt remember him, that the King's Lands are not all the ſupport of Mo<g ref="char:EOLhyphen"/>narchy: and then tell him, Mr. <hi>Harringtons</hi> principle, that all Government is founded upon over-ballance in propriety, is a weak and an uncertain propoſition. For,</p>
+            <p n="1">1. He might with as much truth have told us, that the Government of a ſhip is founded upon over-bal<g ref="char:EOLhyphen"/>lance of propriety in that ſhip; or the Government of a Town, in the over-ballance of Eſtate in that Town. But his thinne fallacy is tranſparent to him <hi>that can di<g ref="char:EOLhyphen"/>ſtinguiſh</hi> that which is <hi>conſtitutive</hi> of a thing, from that which is <hi>conſequutive</hi> of it.</p>
+            <pb n="6" facs="tcp:168774:4"/>
+            <p n="2">2. I think he is no Peripatetique;
+<note place="margin">
+                  <hi>Ariſt.</hi> 2. <hi>Analyt. lib.</hi> 1. <hi>cap.</hi> 2.</note> for, his principle hath nothing of <hi>Ariſtotle's</hi> requiſites in principles, that is, that they be <hi>vera neceſſaria, immed ata, priora, notiora, &amp; cauſae concluſionis;</hi> I mean, <hi>principia com<g ref="char:EOLhyphen"/>plexa ſen praemiſſa Demonſtrationis</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> — His Over-ballance is not a new coyn'd word, but 'tis <hi>analogum proportionis,</hi> purely Tropicall, and ſo unfit to be uſed in a principle of Demonſtration.</p>
+            <p n="3">3. If by propriety he intends all the ſpecies of it, whereof Principality is one, <hi>Parturiunt montes, &amp;c.</hi> And yet that is not alwayes true, for he that hath the Legi<g ref="char:EOLhyphen"/>ſlative, Judiciary, and Military power, and not the Right alſo, hath the Government; that is, he hath <hi>jus poſſeſſionis,</hi> but he hath not <hi>jus proprietatis,</hi> the propri<g ref="char:EOLhyphen"/>ety of it. But if by Propriety, he intends onely the largeſt Eſtate in Lands or Goods, his aſſertion is every way falſe: for one may have the largeſt Eſtate, and yet not the power aforeſaid; and one may have the power aforeſaid, and not the largeſt Eſtate; becauſe they are <hi>genera co-ordinata,</hi> &amp;, by conſequence, <hi>eorum differentiae ſunt ſpecie diverſae,</hi> I mean <hi>ultimatè conſtitutivae.</hi> The Law of the Land might have inform'd him this. Indeed, it calls them both Inheritances: yet he that incroacheth upon the power of the Soveraign, is ſaid to diſ-inherit him; but he that enters upon his Eſtate, is onely term'd an Intruder, and works no change at all upon the Eſtate: It is alſo manifeſt in the diſtinction of te<g ref="char:EOLhyphen"/>nures <hi>in Capite,</hi> from th'other tenures which <hi>Littleton</hi> acquaints us with.</p>
+            <p n="4">4.
+<note place="margin">Lib. 2. cap. 3. <hi>De jure Belli &amp; Pacis.</hi>
+               </note> Moreover all Government is relative to the peo<g ref="char:EOLhyphen"/>ple, and an Eſtate is ſo far from being the foundation of it, that Prince and People both, may conſiſt with<g ref="char:EOLhyphen"/>out it. Let <hi>Grotius</hi> judge: <hi>Imperium</hi> (ſaith he) <hi>duas ſolet habere materias, ſibi ſubjacentes: primariam, Perſonas (quae materia ſolùm inter dum ſufficit, ut in exercitu virorum, mulierum, puerorum, quaerente novas ſedes): Secundariam, Locum, (qui Territori<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m dicitur, &amp;c.) Quanquam autem plorumque uno actu quaeri ſolent, Imperium &amp; Dominium; ſunt tamen diſtincta.</hi>
+            </p>
+            <p n="5">5. Examples of the riſe of Governours make againſt
+<pb n="7" facs="tcp:168774:4"/>him <hi>John de Medices,</hi> the raiſer of his Family in <hi>Florence,</hi> got the government of the City by his wiſdom and great diſ<g ref="char:EOLhyphen"/>cretion, not by over-ballance in propriety, as <hi>Guicciardine</hi> may inform us. And to inſtance in <hi>Sparta;</hi> What over-ballance of propriety had <hi>Lycurgus</hi> in <hi>Lacedaemon,</hi> being onely Protector of <hi>Carilaus?</hi> yet He, by his own power, could mould the Government as he liſt, make a Senate, and beſtow the Supream Power as he pleaſed. I could produce moreapt inſtances, were it not to ſerve the Common-wealths men, in their own Country.</p>
+            <p n="6">6. It is unreaſonable, that a rich man (in a reduplica<g ref="char:EOLhyphen"/>tive ſenſe) ſhall govern me, becauſe he hath contracted a larger eſtate than I; but it is naturall for the ſtrong to rule the weak, as, for a man to govern a child, or the wiſe to govern a fool.</p>
+            <p n="7">7. His Principle is deſtructive of his <hi>Equall Common<g ref="char:EOLhyphen"/>wealth:</hi> for, if all Government be founded upon Over-ballance in Propriety, his Equall Common-wealth is no Government: But all Government is founded upon Over<g ref="char:EOLhyphen"/>ballance in Propriety: Therefore, &amp;c. The Connexion is plain: for where there is an Equality, there is no Over-ballance; where no Over-ballance, (upon his ground) no foundation for Government; and where there is no Foun<g ref="char:EOLhyphen"/>dation, there can be no Superſtructure: the aſſumption is his own principle: therefore 'tis neceſſary, that his Com<g ref="char:EOLhyphen"/>mon-wealth be no Government. Thus, while others in fighting for Propriety in Government, haue reduced us to no Government at all, Mr. <hi>H.</hi> by laying foundations for his imaginary Common-wealth, hath principl'd us for a no Common-wealth at all.</p>
+            <p>But the Generall hath another Argument, we may well call <hi>Argumentum Hercul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um,</hi> That the Army will never endure Monarchy. I anſwer, 1. Who made <hi>Cromwell</hi> Protector? <hi>ab eſſe ad poſſe</hi> is a good Argument. 2. 'Tis in vain for him that will do good, to ask advice of him that never intends any. <hi>Nulla fides pietaſque viris qui caſtra ſequuntur,</hi> is the Motto of moſt Souldiers; and hath ſeldom been falſified, but in that noble Legion, which choſe rather to die Martyrs, than live Traitors. 3. If the Souldier rule us, then 'tis their Government, not Repub<g ref="char:EOLhyphen"/>lique;
+<pb n="8" facs="tcp:168774:5"/>for 'tis not Republique to be under force. 4. It is <hi>Ariſtotle's</hi> Argument,
+<note place="margin">
+                  <hi>Ariſt. polit. lib.</hi> 4. <hi>cap.</hi> 2.</note> That Monarchy is the beſt Govern<g ref="char:EOLhyphen"/>ment, becauſe Tyranny, its oppoſite, is the worſt: It ſhall be my Argument, <hi>ad hominem,</hi> by way of retortion, To have Monarchs as the beſt Governours, becauſe Souldi<g ref="char:EOLhyphen"/>ers, the worſt of Tyrants, are the moſt againſt it. <hi>Oppoſi<g ref="char:EOLhyphen"/>ta juxta ſe poſita magis eluceſcunt.</hi>
+            </p>
+            <p>Laſtly, The Generall hath one other Argument deſerves more conſideration, to wit, <hi>That Introduction of Monar<g ref="char:EOLhyphen"/>chy will occaſion a new war.</hi> But, 1. Will the ſecluſion of it procure us Peace? or rather intail a War upon us and our poſterity? 2. Can we ever purchaſe peace with the price of iniquity? 3. Can there be any way imaginable to re<g ref="char:EOLhyphen"/>concile all intereſts, but by a full and a free Parliament, where the grievances of all parties may be heard, and the injuries of the greateſt be redreſſed? for without this, let a brib'd Orator prate what he will, or a ſeditious Burgeſs plot what he can, 'tis as impoſſible to obtain peace and ſafety, or for a man to be at eaſe while he is upon the Rack; as to empty a River, untill the Springs thereof be ſtopt. And ſet up by force what Tribunitiall Power you pleaſe, you will find to be true the words of <hi>Livie; Tribu<g ref="char:EOLhyphen"/>ni militum,
+<note place="margin">lib. 4.</note> conſulari poteſtate, quatuor creati ſunt</hi> (ſaith he), <hi>Quintius Paenus ex conſulatu, C. Furius M. Poſthumius, A. Cornelius Coſſus. Ex its Coſſus, praefuit urbi. Tres, delectu habito profecti ſunt Veios, documentoque fuerunt quam pluri<g ref="char:EOLhyphen"/>um imperium bello inutile eſſet. I endendo ad ſua quiſque conſilia, cum aliud ali<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> videretur, aperuerunt ad occaſionem locum hoſt: incertam namque aciem, ſignum altis dare recep<g ref="char:EOLhyphen"/>tui, al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is cani jubentibus, invatêre opportune Veientes: Caſtra propinqua turbantes, ac terga dantes accepere. Plus itaque ig<g ref="char:EOLhyphen"/>nominiae quam cladis eſt acceptum. Moeſta civitas fuit, vinci inſueta; odiſſe Tribunos, poſcere Dictatorem, in eo verti ſpes ci<g ref="char:EOLhyphen"/>vitatis.</hi>
+               <note place="margin">Iliad 2:</note> And you will be forced to ſay with <hi>Homer</hi> at laſt, (with which <hi>Ariſtotle</hi> concludes the twelfth of his <hi>Meta<g ref="char:EOLhyphen"/>phyſicks</hi>)</p>
+            <epigraph>
+               <q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </q>
+               <q>
+                  <l>Non multos regnare bonum eſt: Rex unicus eſto</l>
+                  <l>Unius imperium; cu: <hi>Jupiter</hi> aurea magnus</l>
+                  <l>Sceptra dedit, juſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>que ſuis dare jura tuendis.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
